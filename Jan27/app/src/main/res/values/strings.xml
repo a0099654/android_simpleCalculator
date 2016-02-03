@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jan27</string>
+    <string name="main_button">Go to Activity_1</string>
+    <string name="button_1">Go to Activity 2</string>
+    <string name="back_to_home">Go back to home</string>
+</resources>
